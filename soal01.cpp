@@ -6,4 +6,8 @@ int main(){
 	int y;
 	int hasil;
 	
+	cout <<"input nilai x: ";
+		cin >> x;
+	cout <<"input nilai y: ";
+		cin >> y;
 }
