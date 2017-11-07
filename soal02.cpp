@@ -29,6 +29,6 @@ int main(){
 	}
 	else{
 		cout <<"INPUT TIDAK VALID!";
-		
 	}
+	return 0;
 }
