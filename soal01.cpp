@@ -12,4 +12,8 @@ int main(){
 		cin >> y;
 		
 	hasil=x-y;
+	if(hasil<0)
+	cout << hasil*-1;
+	else
+	cout << hasil;
 }
