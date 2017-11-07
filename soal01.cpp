@@ -10,4 +10,6 @@ int main(){
 		cin >> x;
 	cout <<"input nilai y: ";
 		cin >> y;
+		
+	hasil=x-y;
 }
